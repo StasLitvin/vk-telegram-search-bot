@@ -1,0 +1,6 @@
+aiogram
+telethon
+vk_api
+playwright
+openpyxl
+python-dotenv
